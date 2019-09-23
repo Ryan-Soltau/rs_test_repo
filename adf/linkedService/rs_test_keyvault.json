@@ -1,0 +1,10 @@
+{
+	"name": "rs_test_keyvault",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://rs-test-keyvault.vault.azure.net/"
+		}
+	}
+}
